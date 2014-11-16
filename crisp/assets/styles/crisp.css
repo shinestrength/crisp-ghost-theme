@@ -43,10 +43,11 @@ article {
 p, hr, h4, h5, h6 {
 	margin-top: 0.9em;
 	margin-bottom: 0.9em;
+	font-family: "Open Sans", serif;
 }
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Bree Serif", serif;
+	font-family: "Fanwood Text", serif;
 	font-weight: 400 !important;
 }
 h1 {
@@ -179,8 +180,8 @@ h3.post-title {
 	margin-top:0.4em;
 	padding-bottom:0.9em;
 	border-bottom: 1px solid #eee;
-	font-size: 1.2em;
-	color: #444;
+	font-size: 1.0em;
+	color: darkblue;
 }
 .post-title .feature-star {
 	font-size: 0.9em;
@@ -189,7 +190,7 @@ h3.post-title {
 	color: #ccc;
 }
 .taglist a {
-	background-color:#ccc;
+	background-color:black;
 	color:#fff;
 	padding:0.3em 0.6em 0.3em 0.6em;
 	vertical-align:10%;  
