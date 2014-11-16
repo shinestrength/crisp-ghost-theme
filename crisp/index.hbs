@@ -1,3 +1,4 @@
 {{!< default}}
+{{#if @blog.cover}}<a id="cover" href="{{@blog.url}}"><img src="{{@blog.cover}}" alt="{{@blog.title}}" /></a>{{/if}}
 {{> postlist}}
 {{pagination}}
