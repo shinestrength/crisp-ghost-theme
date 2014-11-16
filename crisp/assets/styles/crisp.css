@@ -46,7 +46,7 @@ p, hr, h4, h5, h6 {
 	font-family: "Open Sans", serif;
 }
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
 	font-family: "Fanwood Text", serif;
 	font-weight: 400 !important;
 }
@@ -76,6 +76,7 @@ h5 {
 }
 h6 {
 	font-size:1.1em;
+	font-family: "Open Sans", serif;
 }
 /* Page Elements */
 img, iframe {
